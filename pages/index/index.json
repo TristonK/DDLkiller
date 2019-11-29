@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "i-button": "../../iview-ui/dist/button/index",
+    "i-cell-group": "../../iview-ui/dist/cell-group/index",
+    "i-cell": "../../iview-ui/dist/cell/index",
+    "i-modal": "../../iview-ui/dist/modal/index",
+    "i-card": "../../iview-ui/dist/card/index"
+  }
+}

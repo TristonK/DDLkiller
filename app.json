@@ -1,0 +1,39 @@
+{ 
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/ddl/ddl",
+    "pages/todo/todo"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "DDL小帮手",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+     "color": "#000000",
+     "selectedColor": "#000022",
+     "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/ddl/ddl",
+        "text": "DDL",
+        "iconPath": "img/order.png",
+        "selectedIconPath" : "img/order1.png"
+      },
+      {
+        "pagePath": "pages/todo/todo",
+        "text": "计划与待办",
+        "iconPath": "img/list.png",
+        "selectedIconPath" : "img/list1.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "img/user.png",
+        "selectedIconPath" : "img/user1.png"
+      }
+    ]
+  }
+}

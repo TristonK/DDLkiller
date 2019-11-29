@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我的ddl",
+  "usingComponents": {
+     "i-card": "../../iview-ui/dist/card/index",
+      "i-progress": "../../iview-ui/dist/progress/index",
+      "i-button": "../../iview-ui/dist/button/index",
+      "i-collapse": "../../iview-ui/dist/collapse/index",
+      "i-collapse-item": "../../iview-ui/dist/collapse-item/index",
+      "i-input": "../../iview-ui/dist/input/index",
+      "i-divider": "../../iview-ui/dist/divider/index"
+  }
+}

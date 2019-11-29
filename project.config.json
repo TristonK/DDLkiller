@@ -1,0 +1,41 @@
+{
+	"projectid": "1109917197_DDL%E5%B0%8F%E5%B8%AE%E6%89%8B",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"createTime": 1572357507255,
+	"accessTime": 1572357507255,
+	"packOptions": {
+		"ignore": []
+	},
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"qqappid": "1109917197",
+	"projectname": "DDL%E5%B0%8F%E5%B8%AE%E6%89%8B",
+	"qqLibVersion": "1.8.0",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
